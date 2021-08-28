@@ -1,7 +1,18 @@
 spring:
   redis:
 #    host: 192.168.44.146
-    host: 192.168.112.140
+    host: 10.0.191.10
+    port: 6379
     password: amdyes
+    timeout: 6000ms
 server:
   port: 8081
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: INFO
+    org.springframework.security: INFO
+    org.springframework.security.oauth2: INFO
+    org.springframework.cloud.gateway: TRACE
+#    org.springframework.boot.autoconfigure: DEBUG
