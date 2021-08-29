@@ -1,4 +1,4 @@
-package com.foreverredremilia.repserver.filter;
+package com.example.repserver.filter;
 
 import org.springframework.stereotype.Component;
 import org.springframework.web.server.ServerWebExchange;

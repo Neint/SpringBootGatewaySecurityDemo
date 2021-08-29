@@ -1,9 +1,9 @@
-package com.foreverredremilia.repserver.filter;
+package com.example.repserver.filter;
 
-import com.foreverredremilia.repserver.security.AESUtil;
-import com.foreverredremilia.repserver.security.GetCryptAnnotation;
-import com.foreverredremilia.repserver.security.KeyConstant;
-import com.foreverredremilia.repserver.security.RSAUtil;
+import com.example.repserver.security.AESUtil;
+import com.example.repserver.security.GetCryptAnnotation;
+import com.example.repserver.security.KeyConstant;
+import com.example.repserver.security.RSAUtil;
 import com.google.gson.Gson;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

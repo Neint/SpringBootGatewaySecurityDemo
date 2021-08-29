@@ -1,8 +1,8 @@
-package com.foreverredremilia.repserver.filter;
+package com.example.repserver.filter;
 
-import com.foreverredremilia.repserver.redis.RedisUtil;
-import com.foreverredremilia.repserver.security.KeyConstant;
-import com.foreverredremilia.repserver.security.RSAUtil;
+import com.example.repserver.security.KeyConstant;
+import com.example.repserver.redis.RedisUtil;
+import com.example.repserver.security.RSAUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpHeaders;
 import org.springframework.stereotype.Component;

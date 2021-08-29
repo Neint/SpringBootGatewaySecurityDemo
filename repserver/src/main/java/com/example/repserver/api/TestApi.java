@@ -1,6 +1,6 @@
-package com.foreverredremilia.repserver.api;
+package com.example.repserver.api;
 
-import com.foreverredremilia.repserver.bean.vo.TestVo;
+import com.example.repserver.bean.vo.TestVo;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

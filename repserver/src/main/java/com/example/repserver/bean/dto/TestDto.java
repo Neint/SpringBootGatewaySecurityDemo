@@ -1,6 +1,6 @@
-package com.foreverredremilia.repserver.bean.dto;
+package com.example.repserver.bean.dto;
 
-import com.foreverredremilia.repserver.security.Crypt;
+import com.example.repserver.security.Crypt;
 
 public class TestDto {
     @Crypt

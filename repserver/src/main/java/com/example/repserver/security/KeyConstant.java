@@ -1,4 +1,4 @@
-package com.foreverredremilia.repserver.security;
+package com.example.repserver.security;
 
 public class KeyConstant {
 

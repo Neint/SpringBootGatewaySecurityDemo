@@ -1,4 +1,4 @@
-package com.foreverredremilia.repserver.security;
+package com.example.repserver.security;
 
 import javax.crypto.Cipher;
 import java.nio.charset.StandardCharsets;

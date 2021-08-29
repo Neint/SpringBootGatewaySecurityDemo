@@ -1,7 +1,7 @@
-package com.foreverredremilia.repserver.filter;
+package com.example.repserver.filter;
 
-import com.foreverredremilia.repserver.security.AESUtil;
-import com.foreverredremilia.repserver.security.KeyConstant;
+import com.example.repserver.security.AESUtil;
+import com.example.repserver.security.KeyConstant;
 import com.google.gson.Gson;
 import io.netty.buffer.ByteBufAllocator;
 import org.reactivestreams.Publisher;

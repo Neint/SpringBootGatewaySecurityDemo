@@ -1,6 +1,6 @@
-package com.foreverredremilia.repserver.bean.vo;
+package com.example.repserver.bean.vo;
 
-import com.foreverredremilia.repserver.security.Crypt;
+import com.example.repserver.security.Crypt;
 
 public class TestVo {
 
