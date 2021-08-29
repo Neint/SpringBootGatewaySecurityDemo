@@ -1,0 +1,11 @@
+#.gitignore
+.mvn/
+**/target/
+
+### IntelliJ IDEA ###
+.target/
+.idea
+*.iws
+*.iml
+*.ipr
+/logs/
