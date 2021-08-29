@@ -17,7 +17,7 @@
 
     <modules>
         <module>gateway</module>
-        <module>repserver</module>
+        <module>respserver</module>
         <module>reqserver</module>
     </modules>
 

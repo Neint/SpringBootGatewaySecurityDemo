@@ -5,7 +5,7 @@ https://www.bilibili.com/read/cv7590217
 ### 增加 Redis key
 ```text
 redis-cli -h 10.0.191.10 -p 6379 -a amdyes
-set 67f9b705-987b-4534-854e-544f8ca733a6 "{'uri': 'http://localhost:8082/test/test', 'clazz': 'com.example.repserver.bean.dto.TestDto'}"
+set 67f9b705-987b-4534-854e-544f8ca733a6 "{'uri': 'http://localhost:8082/test/test', 'clazz': 'com.example.respserver.bean.dto.TestDto'}"
 ```
 ### 检查是否添加成功
 ```text
